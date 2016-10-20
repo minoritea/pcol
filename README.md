@@ -5,9 +5,9 @@ to make it easy to extract a column of input text.
 ## Usage
 pcol index [splitter]
 
-Index is an index number of the column you want.
-Splitter is a string to split the text.
-Index and splitter must follow `awk`'s format.
+- Index is an index number of the column you want.
+- Splitter is a string to split the text.
+- Index and splitter must follow `awk`'s format.
 
 Note that you have to put input texts from `stdin`.
 
